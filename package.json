@@ -1,0 +1,20 @@
+{
+  "name": "mepshark",
+  "version": "0.1.0",
+  "description": "shring md file application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natumn/mepshark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natumn/mepshark/issues"
+  },
+  "homepage": "https://github.com/natumn/mepshark#readme"
+}
